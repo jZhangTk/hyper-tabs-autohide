@@ -1,0 +1,25 @@
+{
+  "name": "hyper-tabs-autohide",
+  "version": "0.1.0",
+  "description": "Autohide all tabs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jZhangTk/hyper-tabs-autohide.git"
+  },
+  "keywords": [
+    "hyper",
+    "plugin",
+    "clean",
+    "minimal",
+    "tab"
+  ],
+  "author": "Jay Z",
+  "bugs": {
+    "url": "https://github.com/jZhangTk/hyper-tabs-autohide/issues"
+  },
+  "homepage": "https://github.com/jZhangTk/hyper-tabs-autohide#readme"
+}
