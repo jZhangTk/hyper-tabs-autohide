@@ -20,10 +20,10 @@ exports.decorateConfig = config => {
   return Object.assign({}, config, { css });
 };
 
-// Enable window frame on macOS
+// Disable window frame on macOS
 exports.decorateBrowserOptions = defaults =>
   Object.assign({}, defaults, {
     titleBarStyle: '',
     transparent: false,
-    frame: true,
+    frame: false,
   });
